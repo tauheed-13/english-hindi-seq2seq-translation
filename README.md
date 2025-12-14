@@ -15,11 +15,3 @@ a word-level English → Hindi translator using deep learning.
 - Parallel English–Hindi sentence pairs
 - Start and End tokens added to target sentences
 
-## Project Structure
-(brief tree here)
-
-## How to Run
-```bash
-pip install -r requirements.txt
-python src/train.py
-
